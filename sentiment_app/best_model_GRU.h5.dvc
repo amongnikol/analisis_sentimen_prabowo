@@ -1,0 +1,5 @@
+outs:
+- md5: 01d1d16139e2f134506528e6dae367ac
+  size: 21804208
+  hash: md5
+  path: best_model_GRU.h5
