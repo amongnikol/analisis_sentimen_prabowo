@@ -1,2 +1,3 @@
-/best_model_GRU.h5
-/tokenizer.pkl
+best_model_GRU.h5
+tokenizer.pkl
+.env
